@@ -117,6 +117,19 @@ query Example($opp: Int!) {
 - Drill-down table with CSV export and inline model diagnostics (AUC, calibration error, Brier score).
 - Lighthouse desktop performance: FCP ~0.4s, LCP ~0.9s, performance score 99 (uncached).
 
+## Visual Snapshots
+
+Here are some key visuals from the project:
+
+![Model Overview Dashboard](Snapshots/model_overview_dashboard.png)
+
+
+![Agency Drilldown Dashboard](Snapshots/agency_drilldown_dashboard.png)
+
+
+![Opportunity Risk Meter](Snapshots/opportunity_risk_meter.png)
+
+
 ### Evaluation Checklist
 
 - **Model performance** – Targeted AUC ≥ 0.70 and calibration error ≤ 0.05 (verify via `/modelMetrics` after training).
