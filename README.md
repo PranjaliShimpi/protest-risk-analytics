@@ -17,7 +17,8 @@ Analytics stack for forecasting the protest probability of federal opportunities
 
    ```bash
    python -m venv .venv
-   source .venv/bin/activate
+   source .venv/bin/activate   # MacOS
+   .venv\Scripts\activate      # Windows
    pip install -r backend/requirements.txt
    ```
 
