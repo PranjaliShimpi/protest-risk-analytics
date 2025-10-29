@@ -17,7 +17,7 @@ Analytics stack for forecasting the protest probability of federal opportunities
 
    ```bash
    python -m venv .venv
-   source .venv/bin/activate   # MacOS
+   source .venv/bin/activate   # macOS/Linux
    .venv\Scripts\activate      # Windows
    pip install -r backend/requirements.txt
    ```
@@ -33,7 +33,8 @@ Analytics stack for forecasting the protest probability of federal opportunities
 3. **Run automated tests**
 
    ```bash
-   PYTHONPATH=. pytest backend/tests
+   PYTHONPATH=. pytest backend/tests       # macOS/Linux
+   set PYTHONPATH=. pytest backend/tests   # Windows
    ```
 
 4. **Start the API**
