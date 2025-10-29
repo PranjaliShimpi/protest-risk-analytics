@@ -1,0 +1,5 @@
+opp_id,agency_id,naics,value,value_band,incumbent_vendor_id,sow_text,due_date,decision_date,event_date,protested,outcome,sustained_flag,resolution_days,protester_id,awardee_id
+1000,DOD,541511,2626709,LARGE,1,"Ambiguous requirements; integration unclear; TBD interfaces.",2025-09-01,2022-01-01,2022-01-01,1,denied,0,79,19,3
+1001,GSA,541511,3100020,LARGE,1,"Ambiguous requirements; integration unclear; TBD interfaces.",2025-09-04,2022-01-08,2022-01-08,1,denied,0,96,15,13
+1002,HHS,541513,880210,MID,5,"Complex multi-vendor environment; heavy coordination.",2025-09-07,2022-01-15,2022-01-15,1,sustained,1,92,7,19
+1003,DOE,541511,897891,MID,17,"Clear SOW with detailed scope and deliverables.",2025-09-10,,2025-09-10,0,no_protest,0,,,

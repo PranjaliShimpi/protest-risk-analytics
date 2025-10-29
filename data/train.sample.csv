@@ -1,0 +1,5 @@
+opp_id,agency_id,naics,value_band,protested,protest_rate,sustain_rate,median_resolution_days,value_band_enc,incumbent_displacement_flag,sow_ambiguity_score,agency_prior_protest_rate,protester_history,value
+1000,DOD,541511,LARGE,1,1.0,0.0,87.5,2,1,4,0.50,0,2626709
+1001,GSA,541511,LARGE,1,1.0,0.0,87.5,2,1,4,0.50,0,3100020
+1002,HHS,541513,MID,1,1.0,1.0,92.0,1,1,2,0.33,0,880210
+1003,DOE,541511,MID,0,0.0,0.0,0.0,1,0,0,0.25,0,897891

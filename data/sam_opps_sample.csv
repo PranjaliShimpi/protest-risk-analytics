@@ -1,0 +1,401 @@
+opp_id,title,posted_date,due_date,sow_text
+1000,Opportunity 1000,2022-01-01,2022-03-20,Scope is clearly defined with firm metrics and acceptance criteria.
+1001,Opportunity 1001,2022-01-06,2022-04-07,Multi-vendor environment with significant transition risk from incumbent service provider.
+1002,Opportunity 1002,2022-01-11,2022-05-02,Multi-vendor environment with significant transition risk from incumbent service provider.
+1003,Opportunity 1003,2022-01-16,2022-05-13,Multi-vendor environment with significant transition risk from incumbent service provider.
+1004,Opportunity 1004,2022-01-21,2022-04-05,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1005,Opportunity 1005,2022-01-26,2022-04-03,Scope is clearly defined with firm metrics and acceptance criteria.
+1006,Opportunity 1006,2022-01-31,2022-03-19,Scope is clearly defined with firm metrics and acceptance criteria.
+1007,Opportunity 1007,2022-02-05,2022-04-24,Multi-vendor environment with significant transition risk from incumbent service provider.
+1008,Opportunity 1008,2022-02-10,2022-06-02,Requirements include complex integrations of legacy platforms with modern cloud services.
+1009,Opportunity 1009,2022-02-15,2022-04-29,Scope is clearly defined with firm metrics and acceptance criteria.
+1010,Opportunity 1010,2022-02-20,2022-04-22,Requirements include complex integrations of legacy platforms with modern cloud services.
+1011,Opportunity 1011,2022-02-25,2022-04-05,Scope is clearly defined with firm metrics and acceptance criteria.
+1012,Opportunity 1012,2022-03-02,2022-05-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1013,Opportunity 1013,2022-03-07,2022-04-27,Requirements include complex integrations of legacy platforms with modern cloud services.
+1014,Opportunity 1014,2022-03-12,2022-07-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1015,Opportunity 1015,2022-03-17,2022-06-02,Multi-vendor environment with significant transition risk from incumbent service provider.
+1016,Opportunity 1016,2022-03-22,2022-05-03,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1017,Opportunity 1017,2022-03-27,2022-05-02,Multi-vendor environment with significant transition risk from incumbent service provider.
+1018,Opportunity 1018,2022-04-01,2022-07-16,Multi-vendor environment with significant transition risk from incumbent service provider.
+1019,Opportunity 1019,2022-04-06,2022-07-28,Multi-vendor environment with significant transition risk from incumbent service provider.
+1020,Opportunity 1020,2022-04-11,2022-07-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1021,Opportunity 1021,2022-04-16,2022-05-27,Multi-vendor environment with significant transition risk from incumbent service provider.
+1022,Opportunity 1022,2022-04-21,2022-05-29,Multi-vendor environment with significant transition risk from incumbent service provider.
+1023,Opportunity 1023,2022-04-26,2022-06-12,Multi-vendor environment with significant transition risk from incumbent service provider.
+1024,Opportunity 1024,2022-05-01,2022-08-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1025,Opportunity 1025,2022-05-06,2022-08-12,Requirements include complex integrations of legacy platforms with modern cloud services.
+1026,Opportunity 1026,2022-05-11,2022-08-24,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1027,Opportunity 1027,2022-05-16,2022-06-23,Multi-vendor environment with significant transition risk from incumbent service provider.
+1028,Opportunity 1028,2022-05-21,2022-07-03,Multi-vendor environment with significant transition risk from incumbent service provider.
+1029,Opportunity 1029,2022-05-26,2022-09-14,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1030,Opportunity 1030,2022-05-31,2022-09-21,Requirements include complex integrations of legacy platforms with modern cloud services.
+1031,Opportunity 1031,2022-06-05,2022-09-08,Scope is clearly defined with firm metrics and acceptance criteria.
+1032,Opportunity 1032,2022-06-10,2022-07-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1033,Opportunity 1033,2022-06-15,2022-07-21,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1034,Opportunity 1034,2022-06-20,2022-07-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1035,Opportunity 1035,2022-06-25,2022-09-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1036,Opportunity 1036,2022-06-30,2022-10-14,Requirements include complex integrations of legacy platforms with modern cloud services.
+1037,Opportunity 1037,2022-07-05,2022-09-29,Scope is clearly defined with firm metrics and acceptance criteria.
+1038,Opportunity 1038,2022-07-10,2022-09-01,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1039,Opportunity 1039,2022-07-15,2022-10-21,Requirements include complex integrations of legacy platforms with modern cloud services.
+1040,Opportunity 1040,2022-07-20,2022-08-24,Multi-vendor environment with significant transition risk from incumbent service provider.
+1041,Opportunity 1041,2022-07-25,2022-11-06,Requirements include complex integrations of legacy platforms with modern cloud services.
+1042,Opportunity 1042,2022-07-30,2022-11-17,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1043,Opportunity 1043,2022-08-04,2022-11-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1044,Opportunity 1044,2022-08-09,2022-11-26,Multi-vendor environment with significant transition risk from incumbent service provider.
+1045,Opportunity 1045,2022-08-14,2022-11-04,Multi-vendor environment with significant transition risk from incumbent service provider.
+1046,Opportunity 1046,2022-08-19,2022-10-30,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1047,Opportunity 1047,2022-08-24,2022-10-22,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1048,Opportunity 1048,2022-08-29,2022-12-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1049,Opportunity 1049,2022-09-03,2022-12-04,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1050,Opportunity 1050,2022-09-08,2022-10-25,Requirements include complex integrations of legacy platforms with modern cloud services.
+1051,Opportunity 1051,2022-09-13,2023-01-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1052,Opportunity 1052,2022-09-18,2022-10-23,Requirements include complex integrations of legacy platforms with modern cloud services.
+1053,Opportunity 1053,2022-09-23,2022-12-14,Scope is clearly defined with firm metrics and acceptance criteria.
+1054,Opportunity 1054,2022-09-28,2022-11-14,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1055,Opportunity 1055,2022-10-03,2022-12-31,Requirements include complex integrations of legacy platforms with modern cloud services.
+1056,Opportunity 1056,2022-10-08,2022-12-14,Requirements include complex integrations of legacy platforms with modern cloud services.
+1057,Opportunity 1057,2022-10-13,2022-12-21,Multi-vendor environment with significant transition risk from incumbent service provider.
+1058,Opportunity 1058,2022-10-18,2023-01-16,Scope is clearly defined with firm metrics and acceptance criteria.
+1059,Opportunity 1059,2022-10-23,2023-01-29,Requirements include complex integrations of legacy platforms with modern cloud services.
+1060,Opportunity 1060,2022-10-28,2022-12-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1061,Opportunity 1061,2022-11-02,2023-03-01,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1062,Opportunity 1062,2022-11-07,2023-01-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1063,Opportunity 1063,2022-11-12,2022-12-26,Multi-vendor environment with significant transition risk from incumbent service provider.
+1064,Opportunity 1064,2022-11-17,2022-12-17,Multi-vendor environment with significant transition risk from incumbent service provider.
+1065,Opportunity 1065,2022-11-22,2023-01-09,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1066,Opportunity 1066,2022-11-27,2023-02-27,Scope is clearly defined with firm metrics and acceptance criteria.
+1067,Opportunity 1067,2022-12-02,2023-02-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1068,Opportunity 1068,2022-12-07,2023-02-05,Scope is clearly defined with firm metrics and acceptance criteria.
+1069,Opportunity 1069,2022-12-12,2023-02-23,Scope is clearly defined with firm metrics and acceptance criteria.
+1070,Opportunity 1070,2022-12-17,2023-04-01,Multi-vendor environment with significant transition risk from incumbent service provider.
+1071,Opportunity 1071,2022-12-22,2023-03-13,Multi-vendor environment with significant transition risk from incumbent service provider.
+1072,Opportunity 1072,2022-12-27,2023-01-31,Scope is clearly defined with firm metrics and acceptance criteria.
+1073,Opportunity 1073,2023-01-01,2023-02-04,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1074,Opportunity 1074,2023-01-06,2023-03-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1075,Opportunity 1075,2023-01-11,2023-03-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1076,Opportunity 1076,2023-01-16,2023-05-02,Requirements include complex integrations of legacy platforms with modern cloud services.
+1077,Opportunity 1077,2023-01-21,2023-04-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1078,Opportunity 1078,2023-01-26,2023-05-04,Requirements include complex integrations of legacy platforms with modern cloud services.
+1079,Opportunity 1079,2023-01-31,2023-04-23,Multi-vendor environment with significant transition risk from incumbent service provider.
+1080,Opportunity 1080,2023-02-05,2023-04-07,Requirements include complex integrations of legacy platforms with modern cloud services.
+1081,Opportunity 1081,2023-02-10,2023-05-10,Multi-vendor environment with significant transition risk from incumbent service provider.
+1082,Opportunity 1082,2023-02-15,2023-05-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1083,Opportunity 1083,2023-02-20,2023-05-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1084,Opportunity 1084,2023-02-25,2023-04-13,Requirements include complex integrations of legacy platforms with modern cloud services.
+1085,Opportunity 1085,2023-03-02,2023-05-28,Multi-vendor environment with significant transition risk from incumbent service provider.
+1086,Opportunity 1086,2023-03-07,2023-05-01,Scope is clearly defined with firm metrics and acceptance criteria.
+1087,Opportunity 1087,2023-03-12,2023-06-21,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1088,Opportunity 1088,2023-03-17,2023-06-26,Requirements include complex integrations of legacy platforms with modern cloud services.
+1089,Opportunity 1089,2023-03-22,2023-06-16,Scope is clearly defined with firm metrics and acceptance criteria.
+1090,Opportunity 1090,2023-03-27,2023-07-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1091,Opportunity 1091,2023-04-01,2023-06-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1092,Opportunity 1092,2023-04-06,2023-05-08,Requirements include complex integrations of legacy platforms with modern cloud services.
+1093,Opportunity 1093,2023-04-11,2023-07-04,Scope is clearly defined with firm metrics and acceptance criteria.
+1094,Opportunity 1094,2023-04-16,2023-07-24,Scope is clearly defined with firm metrics and acceptance criteria.
+1095,Opportunity 1095,2023-04-21,2023-05-30,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1096,Opportunity 1096,2023-04-26,2023-06-04,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1097,Opportunity 1097,2023-05-01,2023-06-24,Requirements include complex integrations of legacy platforms with modern cloud services.
+1098,Opportunity 1098,2023-05-06,2023-08-19,Multi-vendor environment with significant transition risk from incumbent service provider.
+1099,Opportunity 1099,2023-05-11,2023-07-27,Requirements include complex integrations of legacy platforms with modern cloud services.
+1100,Opportunity 1100,2023-05-16,2023-09-10,Scope is clearly defined with firm metrics and acceptance criteria.
+1101,Opportunity 1101,2023-05-21,2023-09-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1102,Opportunity 1102,2023-05-26,2023-08-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1103,Opportunity 1103,2023-05-31,2023-08-30,Scope is clearly defined with firm metrics and acceptance criteria.
+1104,Opportunity 1104,2023-06-05,2023-08-03,Multi-vendor environment with significant transition risk from incumbent service provider.
+1105,Opportunity 1105,2023-06-10,2023-07-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1106,Opportunity 1106,2023-06-15,2023-08-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1107,Opportunity 1107,2023-06-20,2023-09-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1108,Opportunity 1108,2023-06-25,2023-08-10,Requirements include complex integrations of legacy platforms with modern cloud services.
+1109,Opportunity 1109,2023-06-30,2023-08-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1110,Opportunity 1110,2023-07-05,2023-08-05,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1111,Opportunity 1111,2023-07-10,2023-10-14,Multi-vendor environment with significant transition risk from incumbent service provider.
+1112,Opportunity 1112,2023-07-15,2023-11-02,Scope is clearly defined with firm metrics and acceptance criteria.
+1113,Opportunity 1113,2023-07-20,2023-11-01,Multi-vendor environment with significant transition risk from incumbent service provider.
+1114,Opportunity 1114,2023-07-25,2023-09-27,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1115,Opportunity 1115,2023-07-30,2023-10-21,Requirements include complex integrations of legacy platforms with modern cloud services.
+1116,Opportunity 1116,2023-08-04,2023-11-28,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1117,Opportunity 1117,2023-08-09,2023-10-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1118,Opportunity 1118,2023-08-14,2023-10-09,Scope is clearly defined with firm metrics and acceptance criteria.
+1119,Opportunity 1119,2023-08-19,2023-10-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1120,Opportunity 1120,2023-08-24,2023-11-27,Scope is clearly defined with firm metrics and acceptance criteria.
+1121,Opportunity 1121,2023-08-29,2023-11-07,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1122,Opportunity 1122,2023-09-03,2023-12-17,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1123,Opportunity 1123,2023-09-08,2023-12-24,Scope is clearly defined with firm metrics and acceptance criteria.
+1124,Opportunity 1124,2023-09-13,2023-10-16,Scope is clearly defined with firm metrics and acceptance criteria.
+1125,Opportunity 1125,2023-09-18,2023-12-22,Scope is clearly defined with firm metrics and acceptance criteria.
+1126,Opportunity 1126,2023-09-23,2023-11-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1127,Opportunity 1127,2023-09-28,2023-12-13,Scope is clearly defined with firm metrics and acceptance criteria.
+1128,Opportunity 1128,2023-10-03,2023-11-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1129,Opportunity 1129,2023-10-08,2023-12-10,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1130,Opportunity 1130,2023-10-13,2023-12-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1131,Opportunity 1131,2023-10-18,2023-11-21,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1132,Opportunity 1132,2023-10-23,2024-01-31,Requirements include complex integrations of legacy platforms with modern cloud services.
+1133,Opportunity 1133,2023-10-28,2023-12-09,Scope is clearly defined with firm metrics and acceptance criteria.
+1134,Opportunity 1134,2023-11-02,2024-01-04,Multi-vendor environment with significant transition risk from incumbent service provider.
+1135,Opportunity 1135,2023-11-07,2023-12-24,Multi-vendor environment with significant transition risk from incumbent service provider.
+1136,Opportunity 1136,2023-11-12,2023-12-26,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1137,Opportunity 1137,2023-11-17,2024-01-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1138,Opportunity 1138,2023-11-22,2024-03-13,Requirements include complex integrations of legacy platforms with modern cloud services.
+1139,Opportunity 1139,2023-11-27,2024-03-20,Scope is clearly defined with firm metrics and acceptance criteria.
+1140,Opportunity 1140,2023-12-02,2024-02-04,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1141,Opportunity 1141,2023-12-07,2024-02-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1142,Opportunity 1142,2023-12-12,2024-04-08,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1143,Opportunity 1143,2023-12-17,2024-02-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1144,Opportunity 1144,2023-12-22,2024-04-15,Scope is clearly defined with firm metrics and acceptance criteria.
+1145,Opportunity 1145,2023-12-27,2024-02-04,Requirements include complex integrations of legacy platforms with modern cloud services.
+1146,Opportunity 1146,2024-01-01,2024-02-20,Requirements include complex integrations of legacy platforms with modern cloud services.
+1147,Opportunity 1147,2024-01-06,2024-03-06,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1148,Opportunity 1148,2024-01-11,2024-02-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1149,Opportunity 1149,2024-01-16,2024-04-28,Scope is clearly defined with firm metrics and acceptance criteria.
+1150,Opportunity 1150,2024-01-21,2024-05-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1151,Opportunity 1151,2024-01-26,2024-03-30,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1152,Opportunity 1152,2024-01-31,2024-05-15,Scope is clearly defined with firm metrics and acceptance criteria.
+1153,Opportunity 1153,2024-02-05,2024-05-14,Requirements include complex integrations of legacy platforms with modern cloud services.
+1154,Opportunity 1154,2024-02-10,2024-05-22,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1155,Opportunity 1155,2024-02-15,2024-05-27,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1156,Opportunity 1156,2024-02-20,2024-05-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1157,Opportunity 1157,2024-02-25,2024-04-04,Scope is clearly defined with firm metrics and acceptance criteria.
+1158,Opportunity 1158,2024-03-01,2024-06-22,Scope is clearly defined with firm metrics and acceptance criteria.
+1159,Opportunity 1159,2024-03-06,2024-05-29,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1160,Opportunity 1160,2024-03-11,2024-06-30,Requirements include complex integrations of legacy platforms with modern cloud services.
+1161,Opportunity 1161,2024-03-16,2024-07-10,Multi-vendor environment with significant transition risk from incumbent service provider.
+1162,Opportunity 1162,2024-03-21,2024-05-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1163,Opportunity 1163,2024-03-26,2024-05-31,Scope is clearly defined with firm metrics and acceptance criteria.
+1164,Opportunity 1164,2024-03-31,2024-05-17,Requirements include complex integrations of legacy platforms with modern cloud services.
+1165,Opportunity 1165,2024-04-05,2024-05-09,Multi-vendor environment with significant transition risk from incumbent service provider.
+1166,Opportunity 1166,2024-04-10,2024-08-04,Requirements include complex integrations of legacy platforms with modern cloud services.
+1167,Opportunity 1167,2024-04-15,2024-08-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1168,Opportunity 1168,2024-04-20,2024-08-11,Scope is clearly defined with firm metrics and acceptance criteria.
+1169,Opportunity 1169,2024-04-25,2024-08-12,Multi-vendor environment with significant transition risk from incumbent service provider.
+1170,Opportunity 1170,2024-04-30,2024-07-27,Requirements include complex integrations of legacy platforms with modern cloud services.
+1171,Opportunity 1171,2024-05-05,2024-07-20,Requirements include complex integrations of legacy platforms with modern cloud services.
+1172,Opportunity 1172,2024-05-10,2024-09-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1173,Opportunity 1173,2024-05-15,2024-08-02,Multi-vendor environment with significant transition risk from incumbent service provider.
+1174,Opportunity 1174,2024-05-20,2024-08-15,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1175,Opportunity 1175,2024-05-25,2024-07-13,Requirements include complex integrations of legacy platforms with modern cloud services.
+1176,Opportunity 1176,2024-05-30,2024-09-04,Multi-vendor environment with significant transition risk from incumbent service provider.
+1177,Opportunity 1177,2024-06-04,2024-09-15,Scope is clearly defined with firm metrics and acceptance criteria.
+1178,Opportunity 1178,2024-06-09,2024-09-08,Multi-vendor environment with significant transition risk from incumbent service provider.
+1179,Opportunity 1179,2024-06-14,2024-08-27,Multi-vendor environment with significant transition risk from incumbent service provider.
+1180,Opportunity 1180,2024-06-19,2024-08-05,Multi-vendor environment with significant transition risk from incumbent service provider.
+1181,Opportunity 1181,2024-06-24,2024-07-27,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1182,Opportunity 1182,2024-06-29,2024-09-23,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1183,Opportunity 1183,2024-07-04,2024-10-03,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1184,Opportunity 1184,2024-07-09,2024-10-16,Requirements include complex integrations of legacy platforms with modern cloud services.
+1185,Opportunity 1185,2024-07-14,2024-11-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1186,Opportunity 1186,2024-07-19,2024-10-01,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1187,Opportunity 1187,2024-07-24,2024-11-05,Multi-vendor environment with significant transition risk from incumbent service provider.
+1188,Opportunity 1188,2024-07-29,2024-10-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1189,Opportunity 1189,2024-08-03,2024-09-26,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1190,Opportunity 1190,2024-08-08,2024-11-22,Requirements include complex integrations of legacy platforms with modern cloud services.
+1191,Opportunity 1191,2024-08-13,2024-09-16,Scope is clearly defined with firm metrics and acceptance criteria.
+1192,Opportunity 1192,2024-08-18,2024-11-09,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1193,Opportunity 1193,2024-08-23,2024-12-15,Multi-vendor environment with significant transition risk from incumbent service provider.
+1194,Opportunity 1194,2024-08-28,2024-11-25,Scope is clearly defined with firm metrics and acceptance criteria.
+1195,Opportunity 1195,2024-09-02,2024-12-25,Requirements include complex integrations of legacy platforms with modern cloud services.
+1196,Opportunity 1196,2024-09-07,2024-10-12,Scope is clearly defined with firm metrics and acceptance criteria.
+1197,Opportunity 1197,2024-09-12,2024-11-28,Requirements include complex integrations of legacy platforms with modern cloud services.
+1198,Opportunity 1198,2024-09-17,2024-12-26,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1199,Opportunity 1199,2024-09-22,2024-12-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1200,Opportunity 1200,2024-09-27,2025-01-14,Multi-vendor environment with significant transition risk from incumbent service provider.
+1201,Opportunity 1201,2024-10-02,2024-12-12,Multi-vendor environment with significant transition risk from incumbent service provider.
+1202,Opportunity 1202,2024-10-07,2025-01-06,Requirements include complex integrations of legacy platforms with modern cloud services.
+1203,Opportunity 1203,2024-10-12,2024-12-18,Requirements include complex integrations of legacy platforms with modern cloud services.
+1204,Opportunity 1204,2024-10-17,2025-02-02,Scope is clearly defined with firm metrics and acceptance criteria.
+1205,Opportunity 1205,2024-10-22,2024-12-01,Requirements include complex integrations of legacy platforms with modern cloud services.
+1206,Opportunity 1206,2024-10-27,2024-12-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1207,Opportunity 1207,2024-11-01,2024-12-09,Requirements include complex integrations of legacy platforms with modern cloud services.
+1208,Opportunity 1208,2024-11-06,2025-02-07,Requirements include complex integrations of legacy platforms with modern cloud services.
+1209,Opportunity 1209,2024-11-11,2024-12-31,Multi-vendor environment with significant transition risk from incumbent service provider.
+1210,Opportunity 1210,2024-11-16,2025-01-13,Multi-vendor environment with significant transition risk from incumbent service provider.
+1211,Opportunity 1211,2024-11-21,2025-03-06,Requirements include complex integrations of legacy platforms with modern cloud services.
+1212,Opportunity 1212,2024-11-26,2025-01-27,Scope is clearly defined with firm metrics and acceptance criteria.
+1213,Opportunity 1213,2024-12-01,2025-01-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1214,Opportunity 1214,2024-12-06,2025-01-06,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1215,Opportunity 1215,2024-12-11,2025-01-30,Multi-vendor environment with significant transition risk from incumbent service provider.
+1216,Opportunity 1216,2024-12-16,2025-04-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1217,Opportunity 1217,2024-12-21,2025-03-10,Requirements include complex integrations of legacy platforms with modern cloud services.
+1218,Opportunity 1218,2024-12-26,2025-04-24,Scope is clearly defined with firm metrics and acceptance criteria.
+1219,Opportunity 1219,2024-12-31,2025-02-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1220,Opportunity 1220,2025-01-05,2025-03-07,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1221,Opportunity 1221,2025-01-10,2025-02-23,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1222,Opportunity 1222,2025-01-15,2025-03-21,Multi-vendor environment with significant transition risk from incumbent service provider.
+1223,Opportunity 1223,2025-01-20,2025-04-10,Multi-vendor environment with significant transition risk from incumbent service provider.
+1224,Opportunity 1224,2025-01-25,2025-05-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1225,Opportunity 1225,2025-01-30,2025-04-03,Scope is clearly defined with firm metrics and acceptance criteria.
+1226,Opportunity 1226,2025-02-04,2025-05-14,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1227,Opportunity 1227,2025-02-09,2025-05-06,Scope is clearly defined with firm metrics and acceptance criteria.
+1228,Opportunity 1228,2025-02-14,2025-04-11,Scope is clearly defined with firm metrics and acceptance criteria.
+1229,Opportunity 1229,2025-02-19,2025-06-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1230,Opportunity 1230,2025-02-24,2025-05-04,Scope is clearly defined with firm metrics and acceptance criteria.
+1231,Opportunity 1231,2025-03-01,2025-04-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1232,Opportunity 1232,2025-03-06,2025-06-30,Multi-vendor environment with significant transition risk from incumbent service provider.
+1233,Opportunity 1233,2025-03-11,2025-07-01,Multi-vendor environment with significant transition risk from incumbent service provider.
+1234,Opportunity 1234,2025-03-16,2025-04-19,Scope is clearly defined with firm metrics and acceptance criteria.
+1235,Opportunity 1235,2025-03-21,2025-07-10,Requirements include complex integrations of legacy platforms with modern cloud services.
+1236,Opportunity 1236,2025-03-26,2025-07-19,Requirements include complex integrations of legacy platforms with modern cloud services.
+1237,Opportunity 1237,2025-03-31,2025-07-13,Scope is clearly defined with firm metrics and acceptance criteria.
+1238,Opportunity 1238,2025-04-05,2025-05-27,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1239,Opportunity 1239,2025-04-10,2025-07-05,Multi-vendor environment with significant transition risk from incumbent service provider.
+1240,Opportunity 1240,2025-04-15,2025-07-02,Multi-vendor environment with significant transition risk from incumbent service provider.
+1241,Opportunity 1241,2025-04-20,2025-07-14,Requirements include complex integrations of legacy platforms with modern cloud services.
+1242,Opportunity 1242,2025-04-25,2025-07-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1243,Opportunity 1243,2025-04-30,2025-07-26,Scope is clearly defined with firm metrics and acceptance criteria.
+1244,Opportunity 1244,2025-05-05,2025-07-20,Requirements include complex integrations of legacy platforms with modern cloud services.
+1245,Opportunity 1245,2025-05-10,2025-08-10,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1246,Opportunity 1246,2025-05-15,2025-07-31,Requirements include complex integrations of legacy platforms with modern cloud services.
+1247,Opportunity 1247,2025-05-20,2025-06-20,Scope is clearly defined with firm metrics and acceptance criteria.
+1248,Opportunity 1248,2025-05-25,2025-06-27,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1249,Opportunity 1249,2025-05-30,2025-09-23,Scope is clearly defined with firm metrics and acceptance criteria.
+1250,Opportunity 1250,2025-06-04,2025-09-23,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1251,Opportunity 1251,2025-06-09,2025-08-30,Scope is clearly defined with firm metrics and acceptance criteria.
+1252,Opportunity 1252,2025-06-14,2025-07-29,Multi-vendor environment with significant transition risk from incumbent service provider.
+1253,Opportunity 1253,2025-06-19,2025-09-27,Requirements include complex integrations of legacy platforms with modern cloud services.
+1254,Opportunity 1254,2025-06-24,2025-08-05,Requirements include complex integrations of legacy platforms with modern cloud services.
+1255,Opportunity 1255,2025-06-29,2025-08-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1256,Opportunity 1256,2025-07-04,2025-09-01,Scope is clearly defined with firm metrics and acceptance criteria.
+1257,Opportunity 1257,2025-07-09,2025-08-09,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1258,Opportunity 1258,2025-07-14,2025-10-24,Requirements include complex integrations of legacy platforms with modern cloud services.
+1259,Opportunity 1259,2025-07-19,2025-10-02,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1260,Opportunity 1260,2025-07-24,2025-09-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1261,Opportunity 1261,2025-07-29,2025-10-12,Requirements include complex integrations of legacy platforms with modern cloud services.
+1262,Opportunity 1262,2025-08-03,2025-09-02,Scope is clearly defined with firm metrics and acceptance criteria.
+1263,Opportunity 1263,2025-08-08,2025-10-16,Multi-vendor environment with significant transition risk from incumbent service provider.
+1264,Opportunity 1264,2025-08-13,2025-10-28,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1265,Opportunity 1265,2025-08-18,2025-10-17,Requirements include complex integrations of legacy platforms with modern cloud services.
+1266,Opportunity 1266,2025-08-23,2025-12-05,Requirements include complex integrations of legacy platforms with modern cloud services.
+1267,Opportunity 1267,2025-08-28,2025-10-19,Multi-vendor environment with significant transition risk from incumbent service provider.
+1268,Opportunity 1268,2025-09-02,2025-10-14,Multi-vendor environment with significant transition risk from incumbent service provider.
+1269,Opportunity 1269,2025-09-07,2025-11-23,Scope is clearly defined with firm metrics and acceptance criteria.
+1270,Opportunity 1270,2025-09-12,2025-12-30,Scope is clearly defined with firm metrics and acceptance criteria.
+1271,Opportunity 1271,2025-09-17,2025-11-19,Multi-vendor environment with significant transition risk from incumbent service provider.
+1272,Opportunity 1272,2025-09-22,2025-10-26,Requirements include complex integrations of legacy platforms with modern cloud services.
+1273,Opportunity 1273,2025-09-27,2026-01-22,Requirements include complex integrations of legacy platforms with modern cloud services.
+1274,Opportunity 1274,2025-10-02,2025-12-10,Multi-vendor environment with significant transition risk from incumbent service provider.
+1275,Opportunity 1275,2025-10-07,2025-11-21,Requirements include complex integrations of legacy platforms with modern cloud services.
+1276,Opportunity 1276,2025-10-12,2026-01-05,Multi-vendor environment with significant transition risk from incumbent service provider.
+1277,Opportunity 1277,2025-10-17,2025-12-14,Scope is clearly defined with firm metrics and acceptance criteria.
+1278,Opportunity 1278,2025-10-22,2026-02-13,Multi-vendor environment with significant transition risk from incumbent service provider.
+1279,Opportunity 1279,2025-10-27,2025-12-22,Requirements include complex integrations of legacy platforms with modern cloud services.
+1280,Opportunity 1280,2025-11-01,2026-01-19,Multi-vendor environment with significant transition risk from incumbent service provider.
+1281,Opportunity 1281,2025-11-06,2026-01-23,Requirements include complex integrations of legacy platforms with modern cloud services.
+1282,Opportunity 1282,2025-11-11,2026-01-01,Requirements include complex integrations of legacy platforms with modern cloud services.
+1283,Opportunity 1283,2025-11-16,2026-01-29,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1284,Opportunity 1284,2025-11-21,2025-12-30,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1285,Opportunity 1285,2025-11-26,2026-02-21,Multi-vendor environment with significant transition risk from incumbent service provider.
+1286,Opportunity 1286,2025-12-01,2026-03-09,Requirements include complex integrations of legacy platforms with modern cloud services.
+1287,Opportunity 1287,2025-12-06,2026-03-31,Requirements include complex integrations of legacy platforms with modern cloud services.
+1288,Opportunity 1288,2025-12-11,2026-02-08,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1289,Opportunity 1289,2025-12-16,2026-02-09,Multi-vendor environment with significant transition risk from incumbent service provider.
+1290,Opportunity 1290,2025-12-21,2026-03-10,Scope is clearly defined with firm metrics and acceptance criteria.
+1291,Opportunity 1291,2025-12-26,2026-03-28,Multi-vendor environment with significant transition risk from incumbent service provider.
+1292,Opportunity 1292,2025-12-31,2026-04-29,Multi-vendor environment with significant transition risk from incumbent service provider.
+1293,Opportunity 1293,2026-01-05,2026-02-06,Multi-vendor environment with significant transition risk from incumbent service provider.
+1294,Opportunity 1294,2026-01-10,2026-03-02,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1295,Opportunity 1295,2026-01-15,2026-03-09,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1296,Opportunity 1296,2026-01-20,2026-03-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1297,Opportunity 1297,2026-01-25,2026-04-06,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1298,Opportunity 1298,2026-01-30,2026-05-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1299,Opportunity 1299,2026-02-04,2026-03-08,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1300,Opportunity 1300,2026-02-09,2026-05-23,Scope is clearly defined with firm metrics and acceptance criteria.
+1301,Opportunity 1301,2026-02-14,2026-05-10,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1302,Opportunity 1302,2026-02-19,2026-05-15,Multi-vendor environment with significant transition risk from incumbent service provider.
+1303,Opportunity 1303,2026-02-24,2026-05-26,Multi-vendor environment with significant transition risk from incumbent service provider.
+1304,Opportunity 1304,2026-03-01,2026-04-10,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1305,Opportunity 1305,2026-03-06,2026-06-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1306,Opportunity 1306,2026-03-11,2026-05-02,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1307,Opportunity 1307,2026-03-16,2026-05-31,Scope is clearly defined with firm metrics and acceptance criteria.
+1308,Opportunity 1308,2026-03-21,2026-06-19,Requirements include complex integrations of legacy platforms with modern cloud services.
+1309,Opportunity 1309,2026-03-26,2026-06-18,Requirements include complex integrations of legacy platforms with modern cloud services.
+1310,Opportunity 1310,2026-03-31,2026-05-29,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1311,Opportunity 1311,2026-04-05,2026-06-09,Multi-vendor environment with significant transition risk from incumbent service provider.
+1312,Opportunity 1312,2026-04-10,2026-06-21,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1313,Opportunity 1313,2026-04-15,2026-05-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1314,Opportunity 1314,2026-04-20,2026-07-24,Requirements include complex integrations of legacy platforms with modern cloud services.
+1315,Opportunity 1315,2026-04-25,2026-06-02,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1316,Opportunity 1316,2026-04-30,2026-07-10,Requirements include complex integrations of legacy platforms with modern cloud services.
+1317,Opportunity 1317,2026-05-05,2026-08-01,Multi-vendor environment with significant transition risk from incumbent service provider.
+1318,Opportunity 1318,2026-05-10,2026-06-16,Multi-vendor environment with significant transition risk from incumbent service provider.
+1319,Opportunity 1319,2026-05-15,2026-09-11,Multi-vendor environment with significant transition risk from incumbent service provider.
+1320,Opportunity 1320,2026-05-20,2026-07-22,Scope is clearly defined with firm metrics and acceptance criteria.
+1321,Opportunity 1321,2026-05-25,2026-06-25,Requirements include complex integrations of legacy platforms with modern cloud services.
+1322,Opportunity 1322,2026-05-30,2026-08-27,Scope is clearly defined with firm metrics and acceptance criteria.
+1323,Opportunity 1323,2026-06-04,2026-08-23,Multi-vendor environment with significant transition risk from incumbent service provider.
+1324,Opportunity 1324,2026-06-09,2026-09-04,Requirements include complex integrations of legacy platforms with modern cloud services.
+1325,Opportunity 1325,2026-06-14,2026-09-19,Multi-vendor environment with significant transition risk from incumbent service provider.
+1326,Opportunity 1326,2026-06-19,2026-08-30,Requirements include complex integrations of legacy platforms with modern cloud services.
+1327,Opportunity 1327,2026-06-24,2026-10-06,Requirements include complex integrations of legacy platforms with modern cloud services.
+1328,Opportunity 1328,2026-06-29,2026-08-31,Requirements include complex integrations of legacy platforms with modern cloud services.
+1329,Opportunity 1329,2026-07-04,2026-09-21,Multi-vendor environment with significant transition risk from incumbent service provider.
+1330,Opportunity 1330,2026-07-09,2026-08-22,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1331,Opportunity 1331,2026-07-14,2026-10-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1332,Opportunity 1332,2026-07-19,2026-09-10,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1333,Opportunity 1333,2026-07-24,2026-10-24,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1334,Opportunity 1334,2026-07-29,2026-11-08,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1335,Opportunity 1335,2026-08-03,2026-11-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1336,Opportunity 1336,2026-08-08,2026-11-29,Requirements include complex integrations of legacy platforms with modern cloud services.
+1337,Opportunity 1337,2026-08-13,2026-09-23,Scope is clearly defined with firm metrics and acceptance criteria.
+1338,Opportunity 1338,2026-08-18,2026-09-29,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1339,Opportunity 1339,2026-08-23,2026-12-14,Requirements include complex integrations of legacy platforms with modern cloud services.
+1340,Opportunity 1340,2026-08-28,2026-10-31,Scope is clearly defined with firm metrics and acceptance criteria.
+1341,Opportunity 1341,2026-09-02,2026-10-04,Requirements include complex integrations of legacy platforms with modern cloud services.
+1342,Opportunity 1342,2026-09-07,2026-11-01,Multi-vendor environment with significant transition risk from incumbent service provider.
+1343,Opportunity 1343,2026-09-12,2026-12-26,Requirements include complex integrations of legacy platforms with modern cloud services.
+1344,Opportunity 1344,2026-09-17,2026-11-17,Requirements include complex integrations of legacy platforms with modern cloud services.
+1345,Opportunity 1345,2026-09-22,2026-10-28,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1346,Opportunity 1346,2026-09-27,2026-12-30,Requirements include complex integrations of legacy platforms with modern cloud services.
+1347,Opportunity 1347,2026-10-02,2026-11-18,Scope is clearly defined with firm metrics and acceptance criteria.
+1348,Opportunity 1348,2026-10-07,2026-12-07,Scope is clearly defined with firm metrics and acceptance criteria.
+1349,Opportunity 1349,2026-10-12,2026-11-11,Requirements include complex integrations of legacy platforms with modern cloud services.
+1350,Opportunity 1350,2026-10-17,2027-01-09,Multi-vendor environment with significant transition risk from incumbent service provider.
+1351,Opportunity 1351,2026-10-22,2026-12-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1352,Opportunity 1352,2026-10-27,2027-02-12,Requirements include complex integrations of legacy platforms with modern cloud services.
+1353,Opportunity 1353,2026-11-01,2026-12-31,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1354,Opportunity 1354,2026-11-06,2026-12-24,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1355,Opportunity 1355,2026-11-11,2026-12-25,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1356,Opportunity 1356,2026-11-16,2027-01-03,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1357,Opportunity 1357,2026-11-21,2027-01-30,Multi-vendor environment with significant transition risk from incumbent service provider.
+1358,Opportunity 1358,2026-11-26,2027-01-02,Scope is clearly defined with firm metrics and acceptance criteria.
+1359,Opportunity 1359,2026-12-01,2027-02-05,Scope is clearly defined with firm metrics and acceptance criteria.
+1360,Opportunity 1360,2026-12-06,2027-03-22,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1361,Opportunity 1361,2026-12-11,2027-03-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1362,Opportunity 1362,2026-12-16,2027-03-13,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1363,Opportunity 1363,2026-12-21,2027-04-10,Requirements include complex integrations of legacy platforms with modern cloud services.
+1364,Opportunity 1364,2026-12-26,2027-04-05,Scope is clearly defined with firm metrics and acceptance criteria.
+1365,Opportunity 1365,2026-12-31,2027-03-29,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1366,Opportunity 1366,2027-01-05,2027-04-22,Requirements include complex integrations of legacy platforms with modern cloud services.
+1367,Opportunity 1367,2027-01-10,2027-02-20,Multi-vendor environment with significant transition risk from incumbent service provider.
+1368,Opportunity 1368,2027-01-15,2027-04-28,Multi-vendor environment with significant transition risk from incumbent service provider.
+1369,Opportunity 1369,2027-01-20,2027-03-17,Multi-vendor environment with significant transition risk from incumbent service provider.
+1370,Opportunity 1370,2027-01-25,2027-04-30,Requirements include complex integrations of legacy platforms with modern cloud services.
+1371,Opportunity 1371,2027-01-30,2027-05-22,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1372,Opportunity 1372,2027-02-04,2027-04-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1373,Opportunity 1373,2027-02-09,2027-03-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1374,Opportunity 1374,2027-02-14,2027-04-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1375,Opportunity 1375,2027-02-19,2027-04-26,Scope is clearly defined with firm metrics and acceptance criteria.
+1376,Opportunity 1376,2027-02-24,2027-06-18,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1377,Opportunity 1377,2027-03-01,2027-06-23,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1378,Opportunity 1378,2027-03-06,2027-05-26,Multi-vendor environment with significant transition risk from incumbent service provider.
+1379,Opportunity 1379,2027-03-11,2027-07-04,Multi-vendor environment with significant transition risk from incumbent service provider.
+1380,Opportunity 1380,2027-03-16,2027-05-24,Scope is clearly defined with firm metrics and acceptance criteria.
+1381,Opportunity 1381,2027-03-21,2027-05-27,Multi-vendor environment with significant transition risk from incumbent service provider.
+1382,Opportunity 1382,2027-03-26,2027-07-09,Requirements include complex integrations of legacy platforms with modern cloud services.
+1383,Opportunity 1383,2027-03-31,2027-06-29,Scope is clearly defined with firm metrics and acceptance criteria.
+1384,Opportunity 1384,2027-04-05,2027-06-21,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1385,Opportunity 1385,2027-04-10,2027-06-20,Requirements include complex integrations of legacy platforms with modern cloud services.
+1386,Opportunity 1386,2027-04-15,2027-07-17,Scope is clearly defined with firm metrics and acceptance criteria.
+1387,Opportunity 1387,2027-04-20,2027-07-26,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1388,Opportunity 1388,2027-04-25,2027-07-08,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1389,Opportunity 1389,2027-04-30,2027-06-01,Requirements include complex integrations of legacy platforms with modern cloud services.
+1390,Opportunity 1390,2027-05-05,2027-06-13,Scope is clearly defined with firm metrics and acceptance criteria.
+1391,Opportunity 1391,2027-05-10,2027-06-21,Requirements include complex integrations of legacy platforms with modern cloud services.
+1392,Opportunity 1392,2027-05-15,2027-07-25,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1393,Opportunity 1393,2027-05-20,2027-08-13,Scope is clearly defined with firm metrics and acceptance criteria.
+1394,Opportunity 1394,2027-05-25,2027-09-04,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1395,Opportunity 1395,2027-05-30,2027-07-19,Ambiguous deliverables with TBD interfaces and heavy coordination requirements.
+1396,Opportunity 1396,2027-06-04,2027-09-12,Multi-vendor environment with significant transition risk from incumbent service provider.
+1397,Opportunity 1397,2027-06-09,2027-09-06,Requirements include complex integrations of legacy platforms with modern cloud services.
+1398,Opportunity 1398,2027-06-14,2027-07-18,Multi-vendor environment with significant transition risk from incumbent service provider.
+1399,Opportunity 1399,2027-06-19,2027-08-19,Requirements include complex integrations of legacy platforms with modern cloud services.

@@ -1,0 +1,337 @@
+opp_id,agency_id,naics,protester_id,awardee_id,sustained,resolution_days,decision_date,rationale
+1000,DHS,541330,DHS_1,32,0,32,2023-06-02,Evaluation criteria were not applied consistently.
+1002,DOD,541511,DOD_1,34,1,63,2023-10-07,Solicitation contains ambiguous terms.
+1003,VA,541330,VA_8,21,0,58,2023-09-04,Solicitation contains ambiguous terms.
+1005,GSA,541611,GSA_1,39,1,17,2023-12-06,Solicitation contains ambiguous terms.
+1005,GSA,541611,GSA_1,39,0,37,2023-11-30,Award decision followed the stated criteria.
+1007,NASA,541512,NASA_7,22,1,79,2023-07-19,Agency failed to conduct meaningful discussions.
+1007,NASA,541512,NASA_7,22,0,74,2023-06-08,Solicitation contains ambiguous terms.
+1008,HHS,541330,HHS_8,34,1,114,2023-08-12,Evaluation criteria were not applied consistently.
+1008,HHS,541330,HHS_8,34,0,75,2023-08-17,Agency failed to conduct meaningful discussions.
+1009,DHS,541512,DHS_4,41,1,76,2023-11-20,Evaluation criteria were not applied consistently.
+1009,DHS,541512,DHS_4,41,1,68,2023-10-20,Agency failed to conduct meaningful discussions.
+1010,DOD,541512,DOD_8,41,1,41,2023-05-31,Agency failed to conduct meaningful discussions.
+1010,DOD,541512,DOD_8,41,0,35,2023-07-19,Solicitation contains ambiguous terms.
+1011,GSA,541511,GSA_6,4,0,61,2023-12-24,Agency failed to conduct meaningful discussions.
+1011,GSA,541511,GSA_6,4,1,81,2023-08-10,Evaluation criteria were not applied consistently.
+1013,NASA,541512,NASA_4,6,1,85,2023-08-26,Solicitation contains ambiguous terms.
+1015,NASA,541519,NASA_9,41,1,80,2023-11-22,Agency failed to conduct meaningful discussions.
+1017,DHS,541512,DHS_1,42,1,56,2023-11-18,Evaluation criteria were not applied consistently.
+1019,VA,541611,VA_5,14,1,51,2023-07-16,Evaluation criteria were not applied consistently.
+1020,DOD,541330,DOD_4,15,1,92,2023-04-23,Agency failed to conduct meaningful discussions.
+1021,VA,541519,VA_10,16,1,78,2023-06-29,Award decision followed the stated criteria.
+1022,HHS,541519,HHS_2,31,1,58,2023-11-19,Award decision followed the stated criteria.
+1024,NASA,541611,NASA_6,33,1,127,2023-09-25,Evaluation criteria were not applied consistently.
+1024,NASA,541611,NASA_6,33,0,99,2023-12-13,Solicitation contains ambiguous terms.
+1025,DOD,541512,DOD_9,19,1,92,2023-04-23,Evaluation criteria were not applied consistently.
+1025,DOD,541512,DOD_9,19,0,83,2023-10-01,Solicitation contains ambiguous terms.
+1028,DOD,541512,DOD_21,25,1,91,2023-05-24,Solicitation contains ambiguous terms.
+1030,VA,541512,VA_12,38,1,38,2023-02-25,Solicitation contains ambiguous terms.
+1030,VA,541512,VA_12,38,1,46,2023-11-27,Evaluation criteria were not applied consistently.
+1032,DHS,541330,DHS_12,22,1,52,2023-10-12,Award decision followed the stated criteria.
+1033,DOD,541512,DOD_1,32,1,55,2023-08-09,Evaluation criteria were not applied consistently.
+1033,DOD,541512,DOD_1,32,1,73,2023-06-30,Solicitation contains ambiguous terms.
+1034,GSA,541611,GSA_5,27,0,33,2023-07-30,Evaluation criteria were not applied consistently.
+1035,DHS,541512,DHS_8,3,0,66,2023-10-15,Agency failed to conduct meaningful discussions.
+1035,DHS,541512,DHS_8,3,1,36,2023-12-30,Evaluation criteria were not applied consistently.
+1040,DHS,541330,DHS_1,5,0,48,2023-02-17,Award decision followed the stated criteria.
+1040,DHS,541330,DHS_1,5,1,79,2023-10-29,Agency failed to conduct meaningful discussions.
+1042,NASA,541512,NASA_3,26,0,81,2023-08-26,Award decision followed the stated criteria.
+1044,DHS,541611,DHS_3,20,0,47,2023-06-21,Award decision followed the stated criteria.
+1044,DHS,541611,DHS_3,20,1,30,2023-10-09,Evaluation criteria were not applied consistently.
+1045,GSA,541519,GSA_1,5,1,37,2023-02-23,Award decision followed the stated criteria.
+1045,GSA,541519,GSA_1,5,0,27,2023-10-29,Solicitation contains ambiguous terms.
+1046,VA,541511,VA_5,36,1,59,2023-11-02,Agency failed to conduct meaningful discussions.
+1047,GSA,541330,GSA_8,42,1,35,2023-03-14,Solicitation contains ambiguous terms.
+1051,HHS,541330,HHS_2,39,0,76,2023-05-27,Award decision followed the stated criteria.
+1052,VA,541611,VA_12,22,0,101,2023-08-12,Award decision followed the stated criteria.
+1054,VA,541611,VA_11,38,1,88,2023-09-20,Solicitation contains ambiguous terms.
+1058,NASA,541330,NASA_1,39,1,85,2023-12-18,Solicitation contains ambiguous terms.
+1061,NASA,541512,NASA_2,14,1,40,2023-12-05,Award decision followed the stated criteria.
+1061,NASA,541512,NASA_2,14,1,66,2023-12-13,Solicitation contains ambiguous terms.
+1062,VA,541519,VA_9,37,0,37,2023-11-08,Award decision followed the stated criteria.
+1064,VA,541512,VA_2,21,0,52,2023-06-20,Evaluation criteria were not applied consistently.
+1064,VA,541512,VA_2,21,0,91,2023-06-24,Award decision followed the stated criteria.
+1065,HHS,541330,HHS_7,17,1,77,2023-10-04,Award decision followed the stated criteria.
+1065,HHS,541330,HHS_7,17,1,52,2023-07-28,Award decision followed the stated criteria.
+1066,GSA,541512,GSA_10,24,1,76,2023-10-08,Award decision followed the stated criteria.
+1067,VA,541611,VA_2,12,1,63,2023-05-08,Solicitation contains ambiguous terms.
+1070,NASA,541519,NASA_5,9,1,85,2023-06-01,Evaluation criteria were not applied consistently.
+1070,NASA,541519,NASA_5,9,1,110,2023-02-01,Solicitation contains ambiguous terms.
+1071,HHS,541330,HHS_5,9,0,39,2023-05-16,Agency failed to conduct meaningful discussions.
+1071,HHS,541330,HHS_5,9,1,78,2023-03-19,Solicitation contains ambiguous terms.
+1072,VA,541611,VA_11,31,1,98,2023-07-30,Solicitation contains ambiguous terms.
+1072,VA,541611,VA_11,31,1,69,2023-10-03,Award decision followed the stated criteria.
+1075,VA,541519,VA_8,28,0,39,2023-03-06,Agency failed to conduct meaningful discussions.
+1076,HHS,541330,HHS_8,15,0,100,2023-03-17,Award decision followed the stated criteria.
+1079,NASA,541512,NASA_1,16,0,52,2023-08-10,Solicitation contains ambiguous terms.
+1080,GSA,541511,GSA_7,31,1,76,2023-11-04,Evaluation criteria were not applied consistently.
+1080,GSA,541511,GSA_7,31,1,97,2023-11-19,Agency failed to conduct meaningful discussions.
+1081,VA,541330,VA_5,24,0,121,2023-01-26,Agency failed to conduct meaningful discussions.
+1082,DHS,541511,DHS_6,44,1,96,2023-01-24,Agency failed to conduct meaningful discussions.
+1082,DHS,541511,DHS_6,44,1,77,2023-02-25,Award decision followed the stated criteria.
+1083,NASA,541519,NASA_7,34,0,61,2023-08-29,Agency failed to conduct meaningful discussions.
+1083,NASA,541519,NASA_7,34,1,85,2023-11-09,Agency failed to conduct meaningful discussions.
+1084,DOD,541611,DOD_5,1,1,49,2023-04-21,Award decision followed the stated criteria.
+1086,DHS,541511,DHS_11,13,1,60,2023-06-19,Agency failed to conduct meaningful discussions.
+1086,DHS,541511,DHS_11,13,1,77,2023-06-22,Award decision followed the stated criteria.
+1087,HHS,541611,HHS_11,26,0,40,2023-02-17,Agency failed to conduct meaningful discussions.
+1088,NASA,541519,NASA_1,12,1,77,2023-08-14,Agency failed to conduct meaningful discussions.
+1088,NASA,541519,NASA_1,12,1,93,2023-04-21,Evaluation criteria were not applied consistently.
+1089,NASA,541519,NASA_9,43,0,56,2023-01-22,Solicitation contains ambiguous terms.
+1091,NASA,541330,NASA_3,23,1,83,2023-01-09,Award decision followed the stated criteria.
+1091,NASA,541330,NASA_3,23,1,62,2023-06-17,Solicitation contains ambiguous terms.
+1092,GSA,541519,GSA_9,6,1,68,2023-02-25,Evaluation criteria were not applied consistently.
+1092,GSA,541519,GSA_9,6,0,74,2024-01-30,Agency failed to conduct meaningful discussions.
+1093,VA,541519,VA_3,41,1,74,2023-10-16,Agency failed to conduct meaningful discussions.
+1093,VA,541519,VA_3,41,1,41,2023-05-11,Solicitation contains ambiguous terms.
+1094,GSA,541511,GSA_2,41,0,42,2023-02-15,Agency failed to conduct meaningful discussions.
+1098,DOD,541330,DOD_19,32,1,63,2023-04-11,Solicitation contains ambiguous terms.
+1099,DHS,541611,DHS_11,19,0,72,2023-01-27,Award decision followed the stated criteria.
+1099,DHS,541611,DHS_11,19,1,73,2023-09-05,Evaluation criteria were not applied consistently.
+1100,NASA,541512,NASA_9,44,1,93,2023-05-29,Solicitation contains ambiguous terms.
+1101,HHS,541519,HHS_9,31,0,100,2023-04-19,Evaluation criteria were not applied consistently.
+1103,DHS,541330,DHS_1,44,1,44,2023-10-22,Evaluation criteria were not applied consistently.
+1105,NASA,541611,NASA_2,21,1,67,2023-11-08,Evaluation criteria were not applied consistently.
+1107,DOD,541511,DOD_20,5,1,58,2023-02-13,Award decision followed the stated criteria.
+1107,DOD,541511,DOD_20,5,1,96,2023-02-28,Solicitation contains ambiguous terms.
+1108,VA,541511,VA_12,20,1,52,2023-07-17,Evaluation criteria were not applied consistently.
+1109,NASA,541511,NASA_6,25,0,49,2023-03-05,Solicitation contains ambiguous terms.
+1109,NASA,541511,NASA_6,25,0,42,2023-06-04,Evaluation criteria were not applied consistently.
+1110,HHS,541330,HHS_10,2,1,73,2023-01-14,Solicitation contains ambiguous terms.
+1111,NASA,541519,NASA_9,6,0,21,2023-10-29,Evaluation criteria were not applied consistently.
+1111,NASA,541519,NASA_9,6,0,66,2024-01-08,Solicitation contains ambiguous terms.
+1115,DOD,541512,DOD_19,23,1,78,2023-04-17,Evaluation criteria were not applied consistently.
+1116,DHS,541330,DHS_1,4,1,27,2023-03-20,Solicitation contains ambiguous terms.
+1116,DHS,541330,DHS_1,4,1,62,2023-08-30,Evaluation criteria were not applied consistently.
+1122,DOD,541512,DOD_4,41,0,58,2023-04-24,Award decision followed the stated criteria.
+1122,DOD,541512,DOD_4,41,0,65,2023-08-10,Award decision followed the stated criteria.
+1124,GSA,541511,GSA_6,20,1,54,2023-03-19,Evaluation criteria were not applied consistently.
+1124,GSA,541511,GSA_6,20,1,88,2023-04-04,Solicitation contains ambiguous terms.
+1125,DOD,541511,DOD_17,34,1,68,2023-11-08,Solicitation contains ambiguous terms.
+1125,DOD,541511,DOD_17,34,1,67,2023-11-25,Agency failed to conduct meaningful discussions.
+1126,DHS,541330,DHS_5,26,0,62,2023-01-13,Award decision followed the stated criteria.
+1128,DOD,541330,DOD_15,24,1,56,2023-12-25,Solicitation contains ambiguous terms.
+1130,DOD,541611,DOD_5,2,0,52,2023-03-03,Agency failed to conduct meaningful discussions.
+1131,DOD,541512,DOD_3,2,0,18,2023-07-07,Evaluation criteria were not applied consistently.
+1132,DHS,541512,DHS_2,5,0,79,2023-03-30,Agency failed to conduct meaningful discussions.
+1135,HHS,541512,HHS_4,10,0,29,2023-09-18,Award decision followed the stated criteria.
+1135,HHS,541512,HHS_4,10,1,23,2023-12-18,Solicitation contains ambiguous terms.
+1136,DOD,541611,DOD_8,7,0,53,2023-04-21,Agency failed to conduct meaningful discussions.
+1139,VA,541512,VA_17,29,1,62,2023-12-13,Agency failed to conduct meaningful discussions.
+1140,GSA,541519,GSA_1,22,0,24,2023-10-23,Agency failed to conduct meaningful discussions.
+1140,GSA,541519,GSA_1,22,0,63,2023-02-01,Evaluation criteria were not applied consistently.
+1141,HHS,541512,HHS_8,19,1,64,2023-11-03,Agency failed to conduct meaningful discussions.
+1144,GSA,541330,GSA_3,40,1,70,2023-05-06,Award decision followed the stated criteria.
+1145,GSA,541512,GSA_2,15,0,57,2023-03-05,Solicitation contains ambiguous terms.
+1146,DHS,541611,DHS_10,31,0,50,2023-03-07,Agency failed to conduct meaningful discussions.
+1146,DHS,541611,DHS_10,31,1,80,2024-01-14,Evaluation criteria were not applied consistently.
+1149,DHS,541519,DHS_10,9,1,80,2023-02-07,Evaluation criteria were not applied consistently.
+1149,DHS,541519,DHS_10,9,1,75,2023-02-11,Solicitation contains ambiguous terms.
+1155,DOD,541611,DOD_9,34,1,90,2023-06-19,Agency failed to conduct meaningful discussions.
+1156,DHS,541519,DHS_11,4,1,106,2023-03-28,Agency failed to conduct meaningful discussions.
+1156,DHS,541519,DHS_11,4,0,67,2024-01-15,Agency failed to conduct meaningful discussions.
+1159,NASA,541330,NASA_5,13,1,59,2023-06-23,Agency failed to conduct meaningful discussions.
+1159,NASA,541330,NASA_5,13,1,81,2024-01-02,Evaluation criteria were not applied consistently.
+1162,VA,541611,VA_1,8,1,52,2023-02-12,Award decision followed the stated criteria.
+1164,VA,541330,VA_16,26,1,86,2023-06-09,Agency failed to conduct meaningful discussions.
+1164,VA,541330,VA_16,26,1,46,2023-12-13,Evaluation criteria were not applied consistently.
+1165,NASA,541511,NASA_1,27,1,86,2023-12-21,Agency failed to conduct meaningful discussions.
+1168,VA,541519,VA_13,27,0,60,2023-03-15,Award decision followed the stated criteria.
+1168,VA,541519,VA_13,27,1,105,2023-12-20,Solicitation contains ambiguous terms.
+1169,DHS,541611,DHS_4,14,0,54,2023-09-11,Evaluation criteria were not applied consistently.
+1169,DHS,541611,DHS_4,14,1,90,2023-04-09,Agency failed to conduct meaningful discussions.
+1171,DHS,541611,DHS_8,2,0,47,2023-11-26,Solicitation contains ambiguous terms.
+1172,NASA,541511,NASA_4,4,0,74,2023-03-12,Evaluation criteria were not applied consistently.
+1173,NASA,541512,NASA_5,33,0,42,2023-02-20,Solicitation contains ambiguous terms.
+1173,NASA,541512,NASA_5,33,0,54,2023-12-21,Evaluation criteria were not applied consistently.
+1174,NASA,541512,NASA_2,28,1,69,2023-03-15,Agency failed to conduct meaningful discussions.
+1174,NASA,541512,NASA_2,28,1,45,2024-01-07,Agency failed to conduct meaningful discussions.
+1176,NASA,541330,NASA_7,40,0,89,2023-03-07,Agency failed to conduct meaningful discussions.
+1176,NASA,541330,NASA_7,40,1,41,2023-03-17,Agency failed to conduct meaningful discussions.
+1181,DHS,541330,DHS_5,42,1,64,2023-05-26,Evaluation criteria were not applied consistently.
+1181,DHS,541330,DHS_5,42,1,78,2023-08-11,Evaluation criteria were not applied consistently.
+1185,VA,541330,VA_15,21,1,66,2023-09-22,Agency failed to conduct meaningful discussions.
+1185,VA,541330,VA_15,21,1,77,2023-08-11,Agency failed to conduct meaningful discussions.
+1187,VA,541512,VA_17,22,1,113,2023-06-26,Award decision followed the stated criteria.
+1189,HHS,541330,HHS_7,20,1,42,2023-12-19,Solicitation contains ambiguous terms.
+1189,HHS,541330,HHS_7,20,0,72,2023-03-24,Agency failed to conduct meaningful discussions.
+1190,NASA,541330,NASA_2,5,0,74,2023-08-26,Evaluation criteria were not applied consistently.
+1190,NASA,541330,NASA_2,5,0,79,2023-12-07,Evaluation criteria were not applied consistently.
+1193,VA,541330,VA_2,23,1,74,2023-11-07,Evaluation criteria were not applied consistently.
+1193,VA,541330,VA_2,23,0,76,2023-07-31,Award decision followed the stated criteria.
+1194,GSA,541511,GSA_12,25,0,54,2023-05-15,Agency failed to conduct meaningful discussions.
+1196,VA,541611,VA_9,13,1,44,2023-12-31,Evaluation criteria were not applied consistently.
+1196,VA,541611,VA_9,13,1,47,2023-07-22,Agency failed to conduct meaningful discussions.
+1198,VA,541519,VA_4,28,1,69,2023-09-19,Evaluation criteria were not applied consistently.
+1198,VA,541519,VA_4,28,0,89,2023-08-01,Agency failed to conduct meaningful discussions.
+1199,GSA,541519,GSA_9,40,1,75,2023-05-09,Solicitation contains ambiguous terms.
+1201,GSA,541519,GSA_2,44,0,78,2023-06-06,Award decision followed the stated criteria.
+1201,GSA,541519,GSA_2,44,1,65,2023-12-25,Award decision followed the stated criteria.
+1202,VA,541519,VA_5,37,1,57,2023-12-28,Agency failed to conduct meaningful discussions.
+1203,NASA,541512,NASA_3,4,0,12,2023-04-26,Agency failed to conduct meaningful discussions.
+1204,VA,541330,VA_4,18,1,39,2023-02-07,Award decision followed the stated criteria.
+1204,VA,541330,VA_4,18,1,68,2023-10-13,Award decision followed the stated criteria.
+1205,HHS,541611,HHS_4,17,0,40,2023-10-24,Solicitation contains ambiguous terms.
+1206,NASA,541511,NASA_1,1,1,79,2023-08-20,Award decision followed the stated criteria.
+1206,NASA,541511,NASA_1,1,0,63,2023-02-11,Evaluation criteria were not applied consistently.
+1212,NASA,541519,NASA_8,13,1,47,2023-05-08,Evaluation criteria were not applied consistently.
+1213,VA,541511,VA_5,8,0,52,2023-01-26,Solicitation contains ambiguous terms.
+1214,NASA,541519,NASA_3,5,1,14,2023-10-25,Agency failed to conduct meaningful discussions.
+1215,HHS,541519,HHS_5,34,1,74,2023-05-17,Solicitation contains ambiguous terms.
+1215,HHS,541519,HHS_5,34,1,30,2023-07-06,Award decision followed the stated criteria.
+1216,DHS,541511,DHS_14,37,1,62,2023-05-05,Solicitation contains ambiguous terms.
+1218,VA,541512,VA_15,28,1,79,2023-03-14,Solicitation contains ambiguous terms.
+1220,DHS,541611,DHS_10,38,0,65,2023-08-14,Agency failed to conduct meaningful discussions.
+1222,NASA,541512,NASA_6,42,1,18,2023-07-13,Solicitation contains ambiguous terms.
+1223,HHS,541611,HHS_2,3,0,47,2023-10-01,Award decision followed the stated criteria.
+1224,NASA,541519,NASA_4,2,1,47,2023-12-21,Solicitation contains ambiguous terms.
+1225,HHS,541511,HHS_1,18,1,100,2023-01-11,Solicitation contains ambiguous terms.
+1226,NASA,541511,NASA_5,33,0,75,2023-06-19,Agency failed to conduct meaningful discussions.
+1226,NASA,541511,NASA_5,33,0,83,2023-03-17,Award decision followed the stated criteria.
+1229,HHS,541511,HHS_11,12,0,50,2023-12-01,Solicitation contains ambiguous terms.
+1230,VA,541519,VA_3,18,1,76,2023-07-12,Solicitation contains ambiguous terms.
+1230,VA,541519,VA_3,18,0,110,2023-09-05,Agency failed to conduct meaningful discussions.
+1236,DOD,541511,DOD_11,6,1,85,2023-12-07,Evaluation criteria were not applied consistently.
+1236,DOD,541511,DOD_11,6,0,83,2023-07-26,Evaluation criteria were not applied consistently.
+1237,VA,541511,VA_1,26,1,82,2023-08-18,Solicitation contains ambiguous terms.
+1237,VA,541511,VA_1,26,0,95,2023-10-18,Solicitation contains ambiguous terms.
+1238,HHS,541519,HHS_2,19,1,58,2023-09-25,Solicitation contains ambiguous terms.
+1238,HHS,541519,HHS_2,19,0,37,2023-03-21,Agency failed to conduct meaningful discussions.
+1239,DOD,541330,DOD_10,22,1,105,2023-02-28,Evaluation criteria were not applied consistently.
+1239,DOD,541330,DOD_10,22,0,93,2023-09-24,Solicitation contains ambiguous terms.
+1241,DOD,541330,DOD_8,26,1,104,2023-01-15,Award decision followed the stated criteria.
+1244,DOD,541519,DOD_11,14,0,38,2023-06-06,Solicitation contains ambiguous terms.
+1244,DOD,541519,DOD_11,14,1,77,2023-02-27,Award decision followed the stated criteria.
+1246,NASA,541611,NASA_2,14,0,108,2023-10-14,Award decision followed the stated criteria.
+1246,NASA,541611,NASA_2,14,1,98,2023-04-22,Agency failed to conduct meaningful discussions.
+1248,NASA,541330,NASA_7,33,1,50,2023-11-21,Agency failed to conduct meaningful discussions.
+1249,DHS,541330,DHS_5,19,1,89,2023-06-04,Agency failed to conduct meaningful discussions.
+1250,HHS,541611,HHS_9,5,1,56,2023-08-17,Award decision followed the stated criteria.
+1250,HHS,541611,HHS_9,5,1,84,2023-06-25,Award decision followed the stated criteria.
+1253,HHS,541330,HHS_9,39,1,106,2023-09-30,Award decision followed the stated criteria.
+1253,HHS,541330,HHS_9,39,1,86,2023-02-22,Agency failed to conduct meaningful discussions.
+1255,DHS,541611,DHS_12,17,1,42,2023-06-23,Award decision followed the stated criteria.
+1256,NASA,541519,NASA_8,25,0,77,2023-03-29,Agency failed to conduct meaningful discussions.
+1256,NASA,541519,NASA_8,25,1,70,2023-02-01,Solicitation contains ambiguous terms.
+1257,DHS,541519,DHS_4,25,0,72,2023-07-02,Evaluation criteria were not applied consistently.
+1257,DHS,541519,DHS_4,25,1,55,2023-05-02,Evaluation criteria were not applied consistently.
+1260,NASA,541512,NASA_6,15,1,32,2023-01-06,Award decision followed the stated criteria.
+1261,HHS,541519,HHS_7,8,0,77,2023-05-09,Evaluation criteria were not applied consistently.
+1261,HHS,541519,HHS_7,8,1,29,2023-08-03,Solicitation contains ambiguous terms.
+1262,HHS,541512,HHS_4,31,1,39,2023-05-28,Solicitation contains ambiguous terms.
+1263,GSA,541511,GSA_8,4,0,53,2023-11-30,Solicitation contains ambiguous terms.
+1264,GSA,541611,GSA_3,23,1,84,2023-07-08,Solicitation contains ambiguous terms.
+1266,VA,541611,VA_8,42,0,37,2023-07-27,Award decision followed the stated criteria.
+1266,VA,541611,VA_8,42,1,75,2023-08-03,Solicitation contains ambiguous terms.
+1268,DOD,541330,DOD_6,1,1,60,2023-08-29,Evaluation criteria were not applied consistently.
+1268,DOD,541330,DOD_6,1,1,52,2023-05-12,Agency failed to conduct meaningful discussions.
+1269,DOD,541512,DOD_9,32,1,104,2023-10-06,Agency failed to conduct meaningful discussions.
+1271,DHS,541519,DHS_3,3,1,81,2023-10-06,Agency failed to conduct meaningful discussions.
+1271,DHS,541519,DHS_3,3,1,73,2023-12-21,Agency failed to conduct meaningful discussions.
+1272,DHS,541519,DHS_13,44,1,14,2023-11-30,Award decision followed the stated criteria.
+1272,DHS,541519,DHS_13,44,0,59,2023-06-23,Evaluation criteria were not applied consistently.
+1273,GSA,541512,GSA_6,38,1,78,2023-12-20,Agency failed to conduct meaningful discussions.
+1276,VA,541611,VA_10,4,1,66,2023-09-27,Agency failed to conduct meaningful discussions.
+1277,NASA,541512,NASA_4,4,0,77,2023-05-17,Agency failed to conduct meaningful discussions.
+1278,DHS,541611,DHS_9,14,1,53,2023-01-23,Solicitation contains ambiguous terms.
+1278,DHS,541611,DHS_9,14,1,49,2023-10-23,Agency failed to conduct meaningful discussions.
+1281,VA,541512,VA_4,3,1,111,2023-05-16,Award decision followed the stated criteria.
+1283,VA,541330,VA_11,38,1,73,2023-03-28,Solicitation contains ambiguous terms.
+1283,VA,541330,VA_11,38,1,73,2023-04-27,Award decision followed the stated criteria.
+1285,GSA,541330,GSA_6,11,1,51,2023-06-26,Evaluation criteria were not applied consistently.
+1285,GSA,541330,GSA_6,11,1,64,2023-03-03,Evaluation criteria were not applied consistently.
+1286,DHS,541611,DHS_9,21,1,72,2023-01-30,Evaluation criteria were not applied consistently.
+1287,DOD,541611,DOD_7,25,0,52,2023-11-18,Solicitation contains ambiguous terms.
+1287,DOD,541611,DOD_7,25,0,62,2024-01-15,Award decision followed the stated criteria.
+1288,DOD,541611,DOD_16,34,0,102,2023-05-20,Solicitation contains ambiguous terms.
+1288,DOD,541611,DOD_16,34,0,102,2023-09-02,Agency failed to conduct meaningful discussions.
+1289,VA,541519,VA_11,19,1,43,2023-02-24,Agency failed to conduct meaningful discussions.
+1291,HHS,541519,HHS_10,36,0,31,2023-08-10,Evaluation criteria were not applied consistently.
+1291,HHS,541519,HHS_10,36,0,54,2023-08-17,Award decision followed the stated criteria.
+1292,GSA,541330,GSA_12,40,1,80,2023-11-26,Evaluation criteria were not applied consistently.
+1293,HHS,541330,HHS_11,22,1,93,2023-12-17,Award decision followed the stated criteria.
+1293,HHS,541330,HHS_11,22,1,80,2023-07-19,Evaluation criteria were not applied consistently.
+1294,DOD,541512,DOD_18,2,1,107,2023-02-10,Solicitation contains ambiguous terms.
+1298,HHS,541512,HHS_3,18,0,55,2023-07-31,Evaluation criteria were not applied consistently.
+1299,DHS,541512,DHS_2,7,1,16,2023-02-27,Award decision followed the stated criteria.
+1299,DHS,541512,DHS_2,7,1,14,2023-07-25,Agency failed to conduct meaningful discussions.
+1302,DHS,541512,DHS_4,42,0,73,2023-02-25,Award decision followed the stated criteria.
+1306,HHS,541512,HHS_4,5,1,65,2023-10-21,Evaluation criteria were not applied consistently.
+1307,DOD,541611,DOD_17,39,1,37,2023-03-23,Solicitation contains ambiguous terms.
+1310,DOD,541519,DOD_14,41,0,48,2023-05-27,Solicitation contains ambiguous terms.
+1311,NASA,541611,NASA_8,31,0,115,2023-07-02,Solicitation contains ambiguous terms.
+1311,NASA,541611,NASA_8,31,1,67,2023-03-10,Award decision followed the stated criteria.
+1312,DHS,541519,DHS_2,34,0,49,2023-06-02,Evaluation criteria were not applied consistently.
+1312,DHS,541519,DHS_2,34,1,45,2023-04-12,Award decision followed the stated criteria.
+1313,HHS,541519,HHS_2,12,1,52,2023-01-05,Evaluation criteria were not applied consistently.
+1313,HHS,541519,HHS_2,12,1,62,2023-11-28,Evaluation criteria were not applied consistently.
+1314,HHS,541330,HHS_7,37,0,65,2023-06-29,Award decision followed the stated criteria.
+1318,GSA,541511,GSA_6,16,1,67,2023-04-10,Evaluation criteria were not applied consistently.
+1318,GSA,541511,GSA_6,16,1,80,2023-05-10,Evaluation criteria were not applied consistently.
+1319,NASA,541611,NASA_2,23,0,65,2023-08-14,Award decision followed the stated criteria.
+1321,DHS,541330,DHS_12,21,1,60,2023-11-17,Solicitation contains ambiguous terms.
+1325,HHS,541512,HHS_1,14,1,57,2023-12-28,Agency failed to conduct meaningful discussions.
+1326,HHS,541519,HHS_4,34,1,117,2023-08-20,Award decision followed the stated criteria.
+1328,DHS,541611,DHS_9,39,1,61,2023-07-20,Solicitation contains ambiguous terms.
+1329,DOD,541519,DOD_12,17,1,22,2023-10-21,Award decision followed the stated criteria.
+1330,DOD,541519,DOD_14,2,1,107,2023-10-14,Agency failed to conduct meaningful discussions.
+1330,DOD,541519,DOD_14,2,1,73,2023-02-28,Agency failed to conduct meaningful discussions.
+1332,HHS,541330,HHS_8,36,1,64,2023-06-09,Agency failed to conduct meaningful discussions.
+1332,HHS,541330,HHS_8,36,1,72,2023-08-06,Solicitation contains ambiguous terms.
+1333,NASA,541519,NASA_6,39,0,62,2023-05-17,Solicitation contains ambiguous terms.
+1334,VA,541511,VA_12,10,1,52,2023-07-13,Agency failed to conduct meaningful discussions.
+1334,VA,541511,VA_12,10,1,71,2023-12-05,Agency failed to conduct meaningful discussions.
+1337,HHS,541511,HHS_7,6,1,70,2023-02-22,Agency failed to conduct meaningful discussions.
+1338,HHS,541519,HHS_8,20,1,58,2023-10-23,Evaluation criteria were not applied consistently.
+1338,HHS,541519,HHS_8,20,1,102,2023-04-21,Award decision followed the stated criteria.
+1343,DOD,541511,DOD_7,11,1,43,2023-03-02,Solicitation contains ambiguous terms.
+1343,DOD,541511,DOD_7,11,1,12,2023-12-04,Evaluation criteria were not applied consistently.
+1344,GSA,541519,GSA_2,20,1,24,2023-08-23,Agency failed to conduct meaningful discussions.
+1345,HHS,541511,HHS_1,7,0,56,2023-10-25,Agency failed to conduct meaningful discussions.
+1346,GSA,541611,GSA_10,26,0,68,2023-11-17,Agency failed to conduct meaningful discussions.
+1349,DHS,541512,DHS_14,3,0,15,2023-02-01,Award decision followed the stated criteria.
+1350,DOD,541330,DOD_20,14,1,44,2023-11-04,Solicitation contains ambiguous terms.
+1350,DOD,541330,DOD_20,14,1,55,2023-12-03,Award decision followed the stated criteria.
+1356,DHS,541519,DHS_9,15,1,77,2023-11-15,Evaluation criteria were not applied consistently.
+1356,DHS,541519,DHS_9,15,1,79,2023-10-26,Award decision followed the stated criteria.
+1360,GSA,541512,GSA_10,38,1,89,2023-02-05,Award decision followed the stated criteria.
+1360,GSA,541512,GSA_10,38,0,71,2023-10-10,Award decision followed the stated criteria.
+1361,GSA,541611,GSA_7,27,1,88,2023-04-14,Agency failed to conduct meaningful discussions.
+1362,HHS,541330,HHS_5,16,1,68,2023-12-03,Solicitation contains ambiguous terms.
+1362,HHS,541330,HHS_5,16,1,77,2023-07-28,Evaluation criteria were not applied consistently.
+1363,GSA,541330,GSA_12,34,1,48,2023-01-24,Evaluation criteria were not applied consistently.
+1363,GSA,541330,GSA_12,34,1,56,2023-10-30,Award decision followed the stated criteria.
+1364,DHS,541511,DHS_2,38,0,80,2023-10-16,Solicitation contains ambiguous terms.
+1365,DOD,541519,DOD_11,16,1,86,2023-01-26,Agency failed to conduct meaningful discussions.
+1366,VA,541519,VA_6,25,1,119,2023-10-19,Evaluation criteria were not applied consistently.
+1367,HHS,541611,HHS_1,1,1,32,2023-04-29,Solicitation contains ambiguous terms.
+1368,DHS,541512,DHS_3,14,0,19,2023-09-29,Evaluation criteria were not applied consistently.
+1368,DHS,541512,DHS_3,14,0,46,2023-03-13,Agency failed to conduct meaningful discussions.
+1369,NASA,541511,NASA_9,27,0,56,2023-02-10,Evaluation criteria were not applied consistently.
+1372,VA,541512,VA_11,43,0,72,2023-09-01,Evaluation criteria were not applied consistently.
+1373,VA,541519,VA_7,12,1,62,2023-02-17,Solicitation contains ambiguous terms.
+1374,GSA,541330,GSA_4,18,1,53,2023-06-04,Agency failed to conduct meaningful discussions.
+1374,GSA,541330,GSA_4,18,1,56,2023-02-25,Evaluation criteria were not applied consistently.
+1379,HHS,541330,HHS_11,25,1,58,2023-09-19,Evaluation criteria were not applied consistently.
+1379,HHS,541330,HHS_11,25,1,89,2023-12-28,Evaluation criteria were not applied consistently.
+1381,GSA,541519,GSA_2,27,1,48,2023-05-16,Evaluation criteria were not applied consistently.
+1381,GSA,541519,GSA_2,27,1,33,2023-04-17,Evaluation criteria were not applied consistently.
+1384,DHS,541611,DHS_6,31,0,60,2023-02-18,Agency failed to conduct meaningful discussions.
+1385,DHS,541611,DHS_14,34,0,45,2023-07-18,Agency failed to conduct meaningful discussions.
+1386,DHS,541512,DHS_2,21,1,28,2023-03-30,Evaluation criteria were not applied consistently.
+1386,DHS,541512,DHS_2,21,1,99,2023-10-20,Agency failed to conduct meaningful discussions.
+1387,NASA,541519,NASA_2,40,1,43,2023-12-11,Award decision followed the stated criteria.
+1388,GSA,541611,GSA_4,18,1,47,2023-01-25,Agency failed to conduct meaningful discussions.
+1390,NASA,541512,NASA_2,9,1,47,2023-04-15,Agency failed to conduct meaningful discussions.
+1390,NASA,541512,NASA_2,9,1,64,2023-08-19,Evaluation criteria were not applied consistently.
+1392,VA,541519,VA_10,24,1,55,2023-10-24,Agency failed to conduct meaningful discussions.
+1395,GSA,541511,GSA_2,14,0,30,2023-12-24,Evaluation criteria were not applied consistently.
+1395,GSA,541511,GSA_2,14,1,70,2023-10-25,Award decision followed the stated criteria.
+1396,DHS,541330,DHS_14,39,0,55,2023-08-08,Agency failed to conduct meaningful discussions.
+1397,HHS,541611,HHS_10,15,1,91,2023-10-09,Solicitation contains ambiguous terms.
+1397,HHS,541611,HHS_10,15,1,49,2023-09-27,Agency failed to conduct meaningful discussions.
+1398,HHS,541511,HHS_10,24,1,93,2023-11-23,Agency failed to conduct meaningful discussions.
+1398,HHS,541511,HHS_10,24,0,69,2023-10-03,Award decision followed the stated criteria.
+1399,HHS,541611,HHS_6,42,0,39,2023-05-05,Agency failed to conduct meaningful discussions.
+1399,HHS,541611,HHS_6,42,0,12,2023-07-10,Award decision followed the stated criteria.

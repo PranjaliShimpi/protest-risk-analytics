@@ -1,0 +1,16 @@
+# Build step
+FROM node:22-alpine AS build
+WORKDIR /frontend
+COPY frontend/package.json frontend/package-lock.json* ./
+RUN npm install
+COPY frontend ./
+RUN npm run build
+
+# Lightweight runtime (serve static build)
+FROM node:22-alpine AS frontend
+WORKDIR /frontend
+RUN npm install -g serve
+COPY --from=build /frontend/dist ./dist
+ENV PORT=5173
+EXPOSE 5173
+CMD ["serve", "-s", "dist", "-l", "5173"]
